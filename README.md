@@ -13,7 +13,7 @@ Resource utilization shows that the design uses 186 LUTs with no flip-flops, BRA
 
 ### Power Analysis
 Power analysis indicates a total on-chip power consumption of approximately 0.089 W, demonstrating the energy efficiency of the proposed design.
-<img width="817" height="529" alt="arch " src="https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9" />
+<img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/97be8f4644e7bdfdbe3464d3a7780caa513f51b8/power.png" />
 
 ### Timing Analysis
 Static timing analysis reports a Worst Negative Slack (WNS) of +4.380 ns and Total Negative Slack (TNS) of 0.000 ns, indicating that all timing constraints are successfully met.
