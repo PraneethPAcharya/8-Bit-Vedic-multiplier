@@ -5,7 +5,7 @@
 
 ### RTL Schematic
 Elaborated RTL schematic confirms correct integration of all functional blocks in the Vedic multiplier architecture.
-<img width="817" height="529" alt="arch " src="https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9" />
+<img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/ef70ac302d8c93549cdd5c736a9f94ea970bed49/schematic.png" />
 
 ### Resource Utilization
 Resource utilization shows that the design uses 186 LUTs with no flip-flops, BRAMs, or DSP blocks, confirming a fully combinational and logic-efficient implementation.
