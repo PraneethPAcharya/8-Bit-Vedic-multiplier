@@ -20,8 +20,4 @@ Power analysis indicates a total on-chip power consumption of approximately 0.08
 Static timing analysis reports a Worst Negative Slack (WNS) of +4.380 ns and Total Negative Slack (TNS) of 0.000 ns, indicating that all timing constraints are successfully met.
 <img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/ede867674ff086ef6622c6484f61d2a05f8ca835/timing.png" />
 
-### Floorplanning
-Device view shows compact placement of logic resources, indicating efficient area utilization on the FPGA fabric.
-<img width="817" height="529" alt="arch " src="https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9" />
 
-<img width="817" height="529" alt="arch " src="https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9" />
