@@ -9,7 +9,7 @@ Elaborated RTL schematic confirms correct integration of all functional blocks i
 
 ### Resource Utilization
 Resource utilization shows that the design uses 186 LUTs with no flip-flops, BRAMs, or DSP blocks, confirming a fully combinational and logic-efficient implementation.
-<img width="817" height="529" alt="arch " src="https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9" />
+<img width="817" height="529" alt="arch " src="[https://github.com/user-attachments/assets/de9b2673-fad5-43ae-b1b2-fadfa72eacb9](https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/07dfe678eec36815febe1ba14f3adf4bc2b68f2e/LUT.png)" />
 
 ### Power Analysis
 Power analysis indicates a total on-chip power consumption of approximately 0.089 W, demonstrating the energy efficiency of the proposed design.
