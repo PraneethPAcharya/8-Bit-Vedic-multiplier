@@ -6,18 +6,22 @@ RTL schematic generated after elaboration shows the complete datapath of the 8-b
 
 ### RTL Schematic
 Elaborated RTL schematic confirms correct integration of all functional blocks in the Vedic multiplier architecture.
+
 <img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/ef70ac302d8c93549cdd5c736a9f94ea970bed49/schematic.png" />
 
 ### Resource Utilization
 Resource utilization shows that the design uses 186 LUTs with no flip-flops, BRAMs, or DSP blocks, confirming a fully combinational and logic-efficient implementation.
+
 <img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/119aef0798c2a784557c0b905b502ba1e8a73ae2/LUT.png" />
 
 ### Power Analysis
 Power analysis indicates a total on-chip power consumption of approximately 0.089 W, demonstrating the energy efficiency of the proposed design.
+
 <img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/97be8f4644e7bdfdbe3464d3a7780caa513f51b8/power.png" />
 
 ### Timing Analysis
 Static timing analysis reports a Worst Negative Slack (WNS) of +4.380 ns and Total Negative Slack (TNS) of 0.000 ns, indicating that all timing constraints are successfully met.
+
 <img width="817" height="529" alt="arch " src="https://github.com/PraneethPAcharya/8-Bit-Vedic-multiplier/blob/ede867674ff086ef6622c6484f61d2a05f8ca835/timing.png" />
 
 
